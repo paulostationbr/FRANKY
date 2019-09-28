@@ -1,4 +1,4 @@
-# FRANKY
+
 Assistent Virtual
 <br><code>Instalar Speech SDK</code>
 <br>
